@@ -1,6 +1,6 @@
-# US-Female-Unemployment
+# US Female Unemployment
 ## Abstract
-The purpose of my project is to accurately forecast the unemployment figures of females aged 16-19 based on previous rates. As the unemployment rate is dropping, unemployment figures are increasing exponentially, and we will examine this in my analysis. I will use RStudio for this time series analysis
+The purpose of my project is to accurately forecast the unemployment figures of females aged 16-19 based on previous rates. As the unemployment rate is dropping, unemployment figures are increasing exponentially, and we will examine this in my analysis. I will use RStudio for this time series analysis.
 
 ## Contributor
 Becky Su
